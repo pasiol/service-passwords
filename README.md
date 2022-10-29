@@ -8,6 +8,10 @@ Palvelu on alunperin tarkoitettu ajettavaksi konttissa esim. Kubernetes klusteri
 
 ## Käyttö binäärinä
 
+Kääntäminen
+
+    make compile
+
     HOST=palvelimen_osoite PORT=NNNN ./bin/service-passwords hakijat # luo oletussalasanan hakija-rekisteriin
 ---
     HOST=palvelimen_osoite PORT=NNNN ./bin/service-passwords opphenk # luo oletussalasanan opiskelija-rekisteriin
