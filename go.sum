@@ -1,0 +1,6 @@
+github.com/beevik/etree v1.1.0 h1:T0xke/WvNtMoCqgzPhkX2r4rjY3GDZFi+FjpRZY2Jbs=
+github.com/beevik/etree v1.1.0/go.mod h1:r8Aw8JqVegEf0w2fDnATrX9VpkMcyFeM0FhwO62wh+A=
+github.com/pasiol/gopq v0.1.8 h1:BAXb84wbxPj+a0MrkXBXrtlrBW60V8fjRMAbvHElkCo=
+github.com/pasiol/gopq v0.1.8/go.mod h1:0J8rG+bxnUv4bqAxOLkup5ImznWfD+FVUfi1QtHBj4o=
+github.com/sethvargo/go-password v0.2.0 h1:BTDl4CC/gjf/axHMaDQtw507ogrXLci6XRiLc7i/UHI=
+github.com/sethvargo/go-password v0.2.0/go.mod h1:Ym4Mr9JXLBycr02MFuVQ/0JHidNetSgbzutTr3zsYXE=
