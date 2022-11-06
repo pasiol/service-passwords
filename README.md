@@ -4,6 +4,10 @@ Primus opiskelijarekisterin yhteydessä hyödynnettävä mikropalvelu, jonka avu
 
 Palvelu on alunperin tarkoitettu ajettavaksi konttissa esim. Kubernetes klusterissa ajastettuna. Mikropalvelu on osa laajempaa sähköisen paikanvastaanoton kokonaisuutta.
 
+Dockerfile, jonka sisälle voi upottaa primusqueryn ja käännetyn binäärin.
+
+https://raw.githubusercontent.com/pasiol/dockerfile-buster-slim-pq/main/Dockerfile
+
 ![kaavio](images/sähköinen_paikanvastaanotto.png)
 
 ## Käyttö binäärinä
