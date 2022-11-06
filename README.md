@@ -2,7 +2,7 @@
 
 Primus opiskelijarekisterin yhteydessä hyödynnettävä mikropalvelu, jonka avulla on mahdollista luoda oletussalasanat hakijoille ja opiskelijoille. Hakijavaiheessa on eri tunnus ja opiskelijarekisteriin siirron yhteydessä luodaan uusi virallinen tunnus jonka aktivointiin käytetään opiskelijarekisterin oletussalasanaa. Siirto opiskelijarekisteriin ja opiskelijan kirjaaminen koskisiirtokelpoiseksi ovat erillisiä mikropalveluita.
 
-Palvelu on alunperin tarkoitettu ajettavaksi konttissa esim. Kubernetes klusterissa ajastettuna. Mikropalvelu on osa laajempaa sähköisen paikanvastaanoton kokonaisuutta.
+Palvelu on alunperin tarkoitettu ajettavaksi kontissa esim. Kubernetes klusterissa ajastettuna. Mikropalvelu on osa laajempaa sähköisen paikanvastaanoton kokonaisuutta.
 
 Dockerfile, jonka sisälle voi upottaa primusqueryn ja käännetyn binäärin.
 
